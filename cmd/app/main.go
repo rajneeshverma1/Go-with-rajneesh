@@ -6,5 +6,10 @@ import (
 )
 
 func main() {
+	// Day 1: Hello World
 	fmt.Println(app.Greet())
+	fmt.Println()
+
+	// Day 2: Go Basics
+	fmt.Println(app.Day2Basics())
 }
