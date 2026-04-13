@@ -34,17 +34,40 @@ Complete Go fundamentals in 5 days and build a strong foundation for backend dev
 
 ---
 
-### Day 2 - 🔄 Upcoming
-**Target Topics:**
-- Variables and data types
-- Control structures (if/else, switch, for loops)
-- Functions and multiple return values
+### Day 2 - ✅ Completed
+**Date:** April 13, 2026
+
+**What I Learned:**
+- Variables and data types (string, int, bool, float)
+- Control structures: if/else, else if, switch statements
+- For loops (traditional, while-style, infinite loops)
+- Functions with single and multiple return values
+- Arrays (fixed size) vs Slices (dynamic size)
+- Maps (key-value pairs)
+- Range keyword for iteration
+- Short variable declaration (:=) vs var keyword
+
+**What I Built:**
+- Implemented comprehensive examples of all basic Go concepts
+- Created helper functions (add, multiply, divide)
+- Demonstrated slice operations (append, slicing, indexing)
+- Practiced map creation and iteration
+- Used range to iterate over slices and maps
+
+**Key Concepts:**
+- Go has only one loop construct: for (but it's versatile)
+- Functions can return multiple values
+- Slices are more flexible than arrays
+- Maps are reference types (like dictionaries in other languages)
+- Type inference with := makes code cleaner
+
+---
 
 ### Day 3 - 🔄 Upcoming
 **Target Topics:**
-- Arrays, slices, and maps
 - Structs and methods
 - Pointers basics
+- Interfaces introduction
 
 ### Day 4 - 🔄 Upcoming
 **Target Topics:**
