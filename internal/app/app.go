@@ -31,3 +31,6 @@ func toUpperCase(s string) string { return System.strings.ToUpper(s) }
 
 // isEven function
 func isEven(n int) bool { return n % 2 == 0 }
+
+// max function
+func max(a, b int) int { if a > b { return a }; return b }
