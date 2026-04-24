@@ -16,3 +16,6 @@ func add(a, b int) int { return a + b }
 
 // subtract function
 func subtract(a, b int) int { return a - b }
+
+// multiply function
+func multiply(a, b int) int { return a * b }
