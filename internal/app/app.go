@@ -10,3 +10,6 @@ func rajneesh() string {
 	return "Learning Go!"
 }
 
+
+// add function
+func add(a, b int) int { return a + b }
