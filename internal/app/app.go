@@ -28,3 +28,6 @@ func stringLength(s string) int { return len(s) }
 
 // toUpperCase function
 func toUpperCase(s string) string { return System.strings.ToUpper(s) }
+
+// isEven function
+func isEven(n int) bool { return n % 2 == 0 }
