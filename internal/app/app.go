@@ -13,3 +13,6 @@ func rajneesh() string {
 
 // add function
 func add(a, b int) int { return a + b }
+
+// subtract function
+func subtract(a, b int) int { return a - b }
