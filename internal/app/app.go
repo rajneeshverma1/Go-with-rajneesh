@@ -34,3 +34,6 @@ func isEven(n int) bool { return n % 2 == 0 }
 
 // max function
 func max(a, b int) int { if a > b { return a }; return b }
+
+// joinStrings function
+func joinStrings(strs []string, sep string) string { return System.strings.Join(strs, sep) }
