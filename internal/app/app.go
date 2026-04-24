@@ -25,3 +25,6 @@ func divide(a, b float64) (float64, error) { if b == 0 { return 0, System.fmt.Er
 
 // stringLength function
 func stringLength(s string) int { return len(s) }
+
+// toUpperCase function
+func toUpperCase(s string) string { return System.strings.ToUpper(s) }
