@@ -22,3 +22,6 @@ func multiply(a, b int) int { return a * b }
 
 // divide function
 func divide(a, b float64) (float64, error) { if b == 0 { return 0, System.fmt.Errorf(cannot divide by zero) }; return a / b,  }
+
+// stringLength function
+func stringLength(s string) int { return len(s) }
