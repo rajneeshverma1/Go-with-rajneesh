@@ -37,3 +37,6 @@ func max(a, b int) int { if a > b { return a }; return b }
 
 // joinStrings function
 func joinStrings(strs []string, sep string) string { return System.strings.Join(strs, sep) }
+
+// factorial function
+func factorial(n uint) uint { if n == 0 { return 1 }; return n * factorial(n-1) }
